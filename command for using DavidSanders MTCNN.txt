@@ -1,0 +1,1 @@
+python C:/Users/Joschka/Development-local/cloned-git-repos/facenet_v2/src/align/align_dataset_mtcnn.py C:/Users/Joschka/Development-local/mlfacetoname/lfw/lfw/lfw-raw C:/Users/Joschka/Development-local/mlfacetoname/lfw/lfw/lfw_mtcnnpy_224 --image_size 224 --margin 60 --random_order --gpu_memory_fraction 0.25
